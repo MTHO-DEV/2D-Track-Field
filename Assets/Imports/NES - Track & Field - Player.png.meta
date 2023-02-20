@@ -1,0 +1,1654 @@
+fileFormatVersion: 2
+guid: 5a1f86d0ce01a64478c7dd9a5761898e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6125103744021082198
+    second: NES - Track & Field - Player_0
+  - first:
+      213: -6202133831353130680
+    second: NES - Track & Field - Player_1
+  - first:
+      213: 7273185500920404220
+    second: NES - Track & Field - Player_2
+  - first:
+      213: 5062315480657444067
+    second: NES - Track & Field - Player_3
+  - first:
+      213: -3658295676031571733
+    second: NES - Track & Field - Player_4
+  - first:
+      213: 695691268973974559
+    second: NES - Track & Field - Player_5
+  - first:
+      213: -6731106802598569963
+    second: NES - Track & Field - Player_6
+  - first:
+      213: -4367674084778228398
+    second: NES - Track & Field - Player_8
+  - first:
+      213: -5128540402422816168
+    second: NES - Track & Field - Player_9
+  - first:
+      213: 5554467012824351436
+    second: NES - Track & Field - Player_10
+  - first:
+      213: 6192436823257339283
+    second: NES - Track & Field - Player_11
+  - first:
+      213: -5615007558957452422
+    second: NES - Track & Field - Player_12
+  - first:
+      213: 1245923683218983168
+    second: NES - Track & Field - Player_13
+  - first:
+      213: -3716806931182481459
+    second: NES - Track & Field - Player_14
+  - first:
+      213: -6247117867996627228
+    second: NES - Track & Field - Player_15
+  - first:
+      213: -7694310508462938008
+    second: NES - Track & Field - Player_16
+  - first:
+      213: 5802328875006652549
+    second: NES - Track & Field - Player_17
+  - first:
+      213: 2783874919543473803
+    second: NES - Track & Field - Player_18
+  - first:
+      213: 2383974735447102766
+    second: NES - Track & Field - Player_19
+  - first:
+      213: -7982454169256263559
+    second: NES - Track & Field - Player_20
+  - first:
+      213: -8202289877769797279
+    second: NES - Track & Field - Player_21
+  - first:
+      213: -3856448762982052280
+    second: NES - Track & Field - Player_23
+  - first:
+      213: 4590368319056171410
+    second: NES - Track & Field - Player_24
+  - first:
+      213: -3506664934327687419
+    second: NES - Track & Field - Player_25
+  - first:
+      213: 230128578234715380
+    second: NES - Track & Field - Player_26
+  - first:
+      213: -7935021705434573864
+    second: NES - Track & Field - Player_27
+  - first:
+      213: -3920432436637258026
+    second: NES - Track & Field - Player_28
+  - first:
+      213: 3267456490871785296
+    second: NES - Track & Field - Player_29
+  - first:
+      213: -5558858039414260778
+    second: NES - Track & Field - Player_30
+  - first:
+      213: -78840374792871752
+    second: NES - Track & Field - Player_31
+  - first:
+      213: 2237787475321536019
+    second: NES - Track & Field - Player_32
+  - first:
+      213: 7393589664471265764
+    second: NES - Track & Field - Player_33
+  - first:
+      213: -4392165430395881929
+    second: NES - Track & Field - Player_34
+  - first:
+      213: 2529280629352991827
+    second: NES - Track & Field - Player_35
+  - first:
+      213: 2193013727354649928
+    second: NES - Track & Field - Player_36
+  - first:
+      213: 6281443620918223310
+    second: NES - Track & Field - Player_37
+  - first:
+      213: -520838361006806390
+    second: NES - Track & Field - Player_38
+  - first:
+      213: 717638281030831631
+    second: NES - Track & Field - Player_39
+  - first:
+      213: 6212764179770770204
+    second: NES - Track & Field - Player_40
+  - first:
+      213: 5385810534822740558
+    second: NES - Track & Field - Player_41
+  - first:
+      213: 2938900466704832012
+    second: NES - Track & Field - Player_42
+  - first:
+      213: 7919296978200418128
+    second: NES - Track & Field - Player_43
+  - first:
+      213: 1844568329984945906
+    second: NES - Track & Field - Player_44
+  - first:
+      213: -6274186957049838662
+    second: NES - Track & Field - Player_45
+  - first:
+      213: -4325287387241508219
+    second: NES - Track & Field - Player_46
+  - first:
+      213: 9161556786657578199
+    second: NES - Track & Field - Player_47
+  - first:
+      213: 8246098840281318785
+    second: NES - Track & Field - Player_48
+  - first:
+      213: -8982312339113787957
+    second: NES - Track & Field - Player_49
+  - first:
+      213: -2636376101024944246
+    second: NES - Track & Field - Player_50
+  - first:
+      213: -1760352050136276407
+    second: NES - Track & Field - Player_51
+  - first:
+      213: -6605850468323673479
+    second: NES - Track & Field - Player_52
+  - first:
+      213: 1374360389094296398
+    second: NES - Track & Field - Player_53
+  - first:
+      213: 6053127151746589687
+    second: NES - Track & Field - Player_54
+  - first:
+      213: -7399440128855553403
+    second: NES - Track & Field - Player_55
+  - first:
+      213: -6858224570236165391
+    second: NES - Track & Field - Player_56
+  - first:
+      213: -4317161586221250912
+    second: NES - Track & Field - Player_57
+  - first:
+      213: 7289511479473646968
+    second: NES - Track & Field - Player_58
+  - first:
+      213: 5428466271075384801
+    second: NES - Track & Field - Player_59
+  - first:
+      213: 1913282498766170354
+    second: NES - Track & Field - Player_60
+  - first:
+      213: -9078271879184798499
+    second: NES - Track & Field - Player_61
+  - first:
+      213: 9923636564772408
+    second: NES - Track & Field - Player_62
+  - first:
+      213: 8709877619609248387
+    second: NES - Track & Field - Player_7
+  - first:
+      213: 932419602089607228
+    second: NES - Track & Field - Player_22
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NES - Track & Field - Player_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 628
+        width: 9
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf4535d8924ffaa0800000000000000
+      internalID: -6125103744021082198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Track & Field - Player_1
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 628
+        width: 12
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 841a3c404289de9a0800000000000000
+      internalID: -6202133831353130680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Track & Field - Player_2
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 628
+        width: 14
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf8d1e79dab8fe460800000000000000
+      internalID: 7273185500920404220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Track & Field - Player_3
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 628
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ec3c8dbb15f04640800000000000000
+      internalID: 5062315480657444067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Track & Field - Player_4
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 628
+        width: 27
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be86ac2177f1b3dc0800000000000000
+      internalID: -3658295676031571733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Track & Field - Player_5
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 628
+        width: 21
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f14d880f58797a900800000000000000
+      internalID: 695691268973974559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Track & Field - Player_6
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 628
+        width: 15
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51895e5a60e4692a0800000000000000
+      internalID: -6731106802598569963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Track & Field - Player_8
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 337
+        width: 40
+        height: 2
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2554d129f87e263c0800000000000000
+      internalID: -4367674084778228398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Track & Field - Player_9
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 583
+        width: 17
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85269591da3c3d8b0800000000000000
+      internalID: -5128540402422816168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Track & Field - Player_10
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 583
+        width: 14
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc24500c15e651d40800000000000000
+      internalID: 5554467012824351436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Track & Field - Player_11
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 593
+        width: 24
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3955d485b74ffe550800000000000000
+      internalID: 6192436823257339283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Track & Field - Player_12
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 583
+        width: 12
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a73353def5c7312b0800000000000000
+      internalID: -5615007558957452422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Track & Field - Player_13
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 589
+        width: 30
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 009838b1df86a4110800000000000000
+      internalID: 1245923683218983168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Track & Field - Player_14
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 540
+        width: 14
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf8820e9cf3b6cc0800000000000000
+      internalID: -3716806931182481459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Track & Field - Player_15
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 540
+        width: 15
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eeb010d567cd49a0800000000000000
+      internalID: -6247117867996627228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Track & Field - Player_16
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 540
+        width: 16
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 868e287db51583590800000000000000
+      internalID: -7694310508462938008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Track & Field - Player_17
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 540
+        width: 16
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58073c8ae53068050800000000000000
+      internalID: 5802328875006652549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Track & Field - Player_18
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 540
+        width: 14
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b86028e5d7f42a620800000000000000
+      internalID: 2783874919543473803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Track & Field - Player_19
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 540
+        width: 15
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2594db1464951120800000000000000
+      internalID: 2383974735447102766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Track & Field - Player_20
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 511
+        width: 25
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97005a5d930a83190800000000000000
+      internalID: -7982454169256263559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Track & Field - Player_21
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 511
+        width: 25
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 161cfb250dc9b2e80800000000000000
+      internalID: -8202289877769797279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Track & Field - Player_24
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 444
+        width: 13
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 291dc855aa344bf30800000000000000
+      internalID: 4590368319056171410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Track & Field - Player_25
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 451
+        width: 30
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 507641342d2d55fc0800000000000000
+      internalID: -3506664934327687419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Track & Field - Player_26
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 448
+        width: 30
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fc885ef8b4913300800000000000000
+      internalID: 230128578234715380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Track & Field - Player_27
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 396
+        width: 14
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d3de8aecc321e190800000000000000
+      internalID: -7935021705434573864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Track & Field - Player_28
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 396
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de21506873d799c0800000000000000
+      internalID: -3920432436637258026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Track & Field - Player_29
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 396
+        width: 17
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0570571ed56585d20800000000000000
+      internalID: 3267456490871785296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Track & Field - Player_30
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 396
+        width: 27
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db73e3b018fad2b0800000000000000
+      internalID: -5558858039414260778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Track & Field - Player_31
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 392
+        width: 21
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b0238ac817e7eef0800000000000000
+      internalID: -78840374792871752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Track & Field - Player_32
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 392
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31ebb5d3ad73e0f10800000000000000
+      internalID: 2237787475321536019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Track & Field - Player_33
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 392
+        width: 24
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e13fcd70ae4b9660800000000000000
+      internalID: 7393589664471265764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Track & Field - Player_34
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 384
+        width: 40
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 736b08ecfc4eb03c0800000000000000
+      internalID: -4392165430395881929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Track & Field - Player_35
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 393
+        width: 40
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35c8cd9e45fc91320800000000000000
+      internalID: 2529280629352991827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Track & Field - Player_37
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 315
+        width: 28
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec1697551bb2c2750800000000000000
+      internalID: 6281443620918223310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Track & Field - Player_38
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 325
+        width: 40
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8aeaca254c95c8f0800000000000000
+      internalID: -520838361006806390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Track & Field - Player_39
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 326
+        width: 40
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0e8012e63095f900800000000000000
+      internalID: 717638281030831631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Track & Field - Player_40
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 325
+        width: 36
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c130288da1c283650800000000000000
+      internalID: 6212764179770770204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Track & Field - Player_41
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 304
+        width: 28
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e428aab652e3eba40800000000000000
+      internalID: 5385810534822740558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Track & Field - Player_42
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 303
+        width: 18
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c06db2c476219c820800000000000000
+      internalID: 2938900466704832012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Track & Field - Player_43
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 263
+        width: 14
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 057d578b4aef6ed60800000000000000
+      internalID: 7919296978200418128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Track & Field - Player_44
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 263
+        width: 22
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fe20b88f19399910800000000000000
+      internalID: 1844568329984945906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Track & Field - Player_45
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 265
+        width: 31
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab3c7a2643c9de8a0800000000000000
+      internalID: -6274186957049838662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Track & Field - Player_46
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 264
+        width: 23
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5821ef3a90e79f3c0800000000000000
+      internalID: -4325287387241508219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Track & Field - Player_47
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 264
+        width: 13
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dc4b428b53642f70800000000000000
+      internalID: 9161556786657578199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Track & Field - Player_48
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 272
+        width: 21
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1858abd9437007270800000000000000
+      internalID: 8246098840281318785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Track & Field - Player_49
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 272
+        width: 20
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcdb385948a685380800000000000000
+      internalID: -8982312339113787957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Track & Field - Player_50
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 272
+        width: 14
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f241c77e5b96bd0800000000000000
+      internalID: -2636376101024944246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Track & Field - Player_52
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 217
+        width: 14
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a38349ffd4354a0800000000000000
+      internalID: -6605850468323673479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Track & Field - Player_53
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 217
+        width: 17
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4b45510e75b21310800000000000000
+      internalID: 1374360389094296398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Track & Field - Player_54
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 217
+        width: 27
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f3a02cd217010450800000000000000
+      internalID: 6053127151746589687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Track & Field - Player_55
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 217
+        width: 15
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58a4bce1868ef4990800000000000000
+      internalID: -7399440128855553403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Track & Field - Player_56
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 217
+        width: 14
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f2a73df611b2d0a0800000000000000
+      internalID: -6858224570236165391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Track & Field - Player_57
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 176
+        width: 14
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a6025f196c5614c0800000000000000
+      internalID: -4317161586221250912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Track & Field - Player_58
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 176
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87da820b11c892560800000000000000
+      internalID: 7289511479473646968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Track & Field - Player_59
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 176
+        width: 12
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed33a2ff49c55b40800000000000000
+      internalID: 5428466271075384801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Track & Field - Player_60
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 176
+        width: 12
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f8ededab485d8a10800000000000000
+      internalID: 1913282498766170354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Track & Field - Player_61
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 176
+        width: 14
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddca5ca13df730280800000000000000
+      internalID: -9078271879184798499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Track & Field - Player_62
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 176
+        width: 14
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 836c250be71432000800000000000000
+      internalID: 9923636564772408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Track & Field - Player_7
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 623
+        width: 9
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3822fe15c83bfd870800000000000000
+      internalID: 8709877619609248387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Track & Field - Player_22
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 485
+        width: 32
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c30892c10be90fc00800000000000000
+      internalID: 932419602089607228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Track & Field - Player_51
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 217
+        width: 10
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9422ffb1329f197e0800000000000000
+      internalID: -1760352050136276407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      NES - Track & Field - Player_0: -6125103744021082198
+      NES - Track & Field - Player_1: -6202133831353130680
+      NES - Track & Field - Player_10: 5554467012824351436
+      NES - Track & Field - Player_11: 6192436823257339283
+      NES - Track & Field - Player_12: -5615007558957452422
+      NES - Track & Field - Player_13: 1245923683218983168
+      NES - Track & Field - Player_14: -3716806931182481459
+      NES - Track & Field - Player_15: -6247117867996627228
+      NES - Track & Field - Player_16: -7694310508462938008
+      NES - Track & Field - Player_17: 5802328875006652549
+      NES - Track & Field - Player_18: 2783874919543473803
+      NES - Track & Field - Player_19: 2383974735447102766
+      NES - Track & Field - Player_2: 7273185500920404220
+      NES - Track & Field - Player_20: -7982454169256263559
+      NES - Track & Field - Player_21: -8202289877769797279
+      NES - Track & Field - Player_22: 932419602089607228
+      NES - Track & Field - Player_24: 4590368319056171410
+      NES - Track & Field - Player_25: -3506664934327687419
+      NES - Track & Field - Player_26: 230128578234715380
+      NES - Track & Field - Player_27: -7935021705434573864
+      NES - Track & Field - Player_28: -3920432436637258026
+      NES - Track & Field - Player_29: 3267456490871785296
+      NES - Track & Field - Player_3: 5062315480657444067
+      NES - Track & Field - Player_30: -5558858039414260778
+      NES - Track & Field - Player_31: -78840374792871752
+      NES - Track & Field - Player_32: 2237787475321536019
+      NES - Track & Field - Player_33: 7393589664471265764
+      NES - Track & Field - Player_34: -4392165430395881929
+      NES - Track & Field - Player_35: 2529280629352991827
+      NES - Track & Field - Player_37: 6281443620918223310
+      NES - Track & Field - Player_38: -520838361006806390
+      NES - Track & Field - Player_39: 717638281030831631
+      NES - Track & Field - Player_4: -3658295676031571733
+      NES - Track & Field - Player_40: 6212764179770770204
+      NES - Track & Field - Player_41: 5385810534822740558
+      NES - Track & Field - Player_42: 2938900466704832012
+      NES - Track & Field - Player_43: 7919296978200418128
+      NES - Track & Field - Player_44: 1844568329984945906
+      NES - Track & Field - Player_45: -6274186957049838662
+      NES - Track & Field - Player_46: -4325287387241508219
+      NES - Track & Field - Player_47: 9161556786657578199
+      NES - Track & Field - Player_48: 8246098840281318785
+      NES - Track & Field - Player_49: -8982312339113787957
+      NES - Track & Field - Player_5: 695691268973974559
+      NES - Track & Field - Player_50: -2636376101024944246
+      NES - Track & Field - Player_51: -1760352050136276407
+      NES - Track & Field - Player_52: -6605850468323673479
+      NES - Track & Field - Player_53: 1374360389094296398
+      NES - Track & Field - Player_54: 6053127151746589687
+      NES - Track & Field - Player_55: -7399440128855553403
+      NES - Track & Field - Player_56: -6858224570236165391
+      NES - Track & Field - Player_57: -4317161586221250912
+      NES - Track & Field - Player_58: 7289511479473646968
+      NES - Track & Field - Player_59: 5428466271075384801
+      NES - Track & Field - Player_6: -6731106802598569963
+      NES - Track & Field - Player_60: 1913282498766170354
+      NES - Track & Field - Player_61: -9078271879184798499
+      NES - Track & Field - Player_62: 9923636564772408
+      NES - Track & Field - Player_7: 8709877619609248387
+      NES - Track & Field - Player_8: -4367674084778228398
+      NES - Track & Field - Player_9: -5128540402422816168
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

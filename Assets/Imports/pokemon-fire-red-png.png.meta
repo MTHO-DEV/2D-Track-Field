@@ -1,0 +1,4873 @@
+fileFormatVersion: 2
+guid: bd399f7a16012bd48aff72b51d3a6950
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2638208732616979018
+    second: pngkey.com-pokemon-fire-red-png-3536860_0
+  - first:
+      213: -2573100881930986807
+    second: pngkey.com-pokemon-fire-red-png-3536860_1
+  - first:
+      213: 9139754715617660391
+    second: pngkey.com-pokemon-fire-red-png-3536860_2
+  - first:
+      213: -7158840966213088149
+    second: pngkey.com-pokemon-fire-red-png-3536860_3
+  - first:
+      213: -8763051127383909276
+    second: pngkey.com-pokemon-fire-red-png-3536860_4
+  - first:
+      213: -2864565922746071919
+    second: pngkey.com-pokemon-fire-red-png-3536860_5
+  - first:
+      213: -4562699064385061741
+    second: pngkey.com-pokemon-fire-red-png-3536860_6
+  - first:
+      213: -2796433992516283582
+    second: pngkey.com-pokemon-fire-red-png-3536860_7
+  - first:
+      213: -3879089812324537878
+    second: pngkey.com-pokemon-fire-red-png-3536860_8
+  - first:
+      213: 6232477646476597897
+    second: pngkey.com-pokemon-fire-red-png-3536860_9
+  - first:
+      213: -2934518757606781873
+    second: pngkey.com-pokemon-fire-red-png-3536860_10
+  - first:
+      213: -8471051468883154008
+    second: pngkey.com-pokemon-fire-red-png-3536860_11
+  - first:
+      213: 5367696736855847690
+    second: pngkey.com-pokemon-fire-red-png-3536860_12
+  - first:
+      213: -8327238415789688727
+    second: pngkey.com-pokemon-fire-red-png-3536860_13
+  - first:
+      213: 3833369910664924273
+    second: pngkey.com-pokemon-fire-red-png-3536860_14
+  - first:
+      213: -4488544129897942286
+    second: pngkey.com-pokemon-fire-red-png-3536860_15
+  - first:
+      213: 6738779984823131996
+    second: pngkey.com-pokemon-fire-red-png-3536860_16
+  - first:
+      213: -1548865228417692420
+    second: pngkey.com-pokemon-fire-red-png-3536860_17
+  - first:
+      213: 1436093808964110229
+    second: pngkey.com-pokemon-fire-red-png-3536860_18
+  - first:
+      213: -299870783444540090
+    second: pngkey.com-pokemon-fire-red-png-3536860_19
+  - first:
+      213: 8231979502554520486
+    second: pngkey.com-pokemon-fire-red-png-3536860_20
+  - first:
+      213: 2632258671633751774
+    second: pngkey.com-pokemon-fire-red-png-3536860_21
+  - first:
+      213: -7981960725530269543
+    second: pngkey.com-pokemon-fire-red-png-3536860_22
+  - first:
+      213: -5826987751340564233
+    second: pngkey.com-pokemon-fire-red-png-3536860_23
+  - first:
+      213: 3177113643219160321
+    second: pngkey.com-pokemon-fire-red-png-3536860_24
+  - first:
+      213: 9173321228736009908
+    second: pngkey.com-pokemon-fire-red-png-3536860_25
+  - first:
+      213: -3968900142886066348
+    second: pngkey.com-pokemon-fire-red-png-3536860_26
+  - first:
+      213: 7735304436706671407
+    second: pngkey.com-pokemon-fire-red-png-3536860_27
+  - first:
+      213: 1091240632255515775
+    second: pngkey.com-pokemon-fire-red-png-3536860_28
+  - first:
+      213: 6318508575493134240
+    second: pngkey.com-pokemon-fire-red-png-3536860_29
+  - first:
+      213: -2570105083399431330
+    second: pngkey.com-pokemon-fire-red-png-3536860_30
+  - first:
+      213: 8490243558446139260
+    second: pngkey.com-pokemon-fire-red-png-3536860_31
+  - first:
+      213: 1412077071665683879
+    second: pngkey.com-pokemon-fire-red-png-3536860_32
+  - first:
+      213: -6352552822121868662
+    second: pngkey.com-pokemon-fire-red-png-3536860_33
+  - first:
+      213: 8606259029697055689
+    second: pngkey.com-pokemon-fire-red-png-3536860_34
+  - first:
+      213: 3797463987883268808
+    second: pngkey.com-pokemon-fire-red-png-3536860_35
+  - first:
+      213: -6199242864734101951
+    second: pngkey.com-pokemon-fire-red-png-3536860_36
+  - first:
+      213: 2899222496806222618
+    second: pngkey.com-pokemon-fire-red-png-3536860_37
+  - first:
+      213: -2206790939643117107
+    second: pngkey.com-pokemon-fire-red-png-3536860_38
+  - first:
+      213: 4226271400558443277
+    second: pngkey.com-pokemon-fire-red-png-3536860_39
+  - first:
+      213: 3523811142109475497
+    second: pngkey.com-pokemon-fire-red-png-3536860_40
+  - first:
+      213: 216702637957291248
+    second: pngkey.com-pokemon-fire-red-png-3536860_41
+  - first:
+      213: 1817087473923582302
+    second: pngkey.com-pokemon-fire-red-png-3536860_42
+  - first:
+      213: -3909301772712336934
+    second: pngkey.com-pokemon-fire-red-png-3536860_43
+  - first:
+      213: 5744199142238795970
+    second: pngkey.com-pokemon-fire-red-png-3536860_44
+  - first:
+      213: 8606866655622603335
+    second: pngkey.com-pokemon-fire-red-png-3536860_45
+  - first:
+      213: -4903038582794611733
+    second: pngkey.com-pokemon-fire-red-png-3536860_46
+  - first:
+      213: 162886423341455370
+    second: pngkey.com-pokemon-fire-red-png-3536860_47
+  - first:
+      213: -3716855985941048787
+    second: pngkey.com-pokemon-fire-red-png-3536860_48
+  - first:
+      213: 7608407117263267685
+    second: pngkey.com-pokemon-fire-red-png-3536860_49
+  - first:
+      213: -5514727647386079058
+    second: pngkey.com-pokemon-fire-red-png-3536860_50
+  - first:
+      213: -6975475960275753684
+    second: pngkey.com-pokemon-fire-red-png-3536860_51
+  - first:
+      213: 142517070055008882
+    second: pngkey.com-pokemon-fire-red-png-3536860_52
+  - first:
+      213: 8331058315929201108
+    second: pngkey.com-pokemon-fire-red-png-3536860_53
+  - first:
+      213: -3461009734358379650
+    second: pngkey.com-pokemon-fire-red-png-3536860_54
+  - first:
+      213: 5314297457311830301
+    second: pngkey.com-pokemon-fire-red-png-3536860_55
+  - first:
+      213: 3265291547286611941
+    second: pngkey.com-pokemon-fire-red-png-3536860_56
+  - first:
+      213: -3295697972567394389
+    second: pngkey.com-pokemon-fire-red-png-3536860_57
+  - first:
+      213: -3947525922675861595
+    second: pngkey.com-pokemon-fire-red-png-3536860_58
+  - first:
+      213: -8401133624600271619
+    second: pngkey.com-pokemon-fire-red-png-3536860_59
+  - first:
+      213: 2424140401098319644
+    second: pngkey.com-pokemon-fire-red-png-3536860_60
+  - first:
+      213: 6853278908448837244
+    second: pngkey.com-pokemon-fire-red-png-3536860_61
+  - first:
+      213: 4419542202917661303
+    second: pngkey.com-pokemon-fire-red-png-3536860_62
+  - first:
+      213: -5427920308148815137
+    second: pngkey.com-pokemon-fire-red-png-3536860_63
+  - first:
+      213: 4436073220553653619
+    second: pngkey.com-pokemon-fire-red-png-3536860_64
+  - first:
+      213: 6278967325579155298
+    second: pngkey.com-pokemon-fire-red-png-3536860_65
+  - first:
+      213: 6430699704245756689
+    second: pngkey.com-pokemon-fire-red-png-3536860_66
+  - first:
+      213: 6832435089020955424
+    second: pngkey.com-pokemon-fire-red-png-3536860_67
+  - first:
+      213: 6100755831580025190
+    second: pngkey.com-pokemon-fire-red-png-3536860_68
+  - first:
+      213: -5788759576625793671
+    second: pngkey.com-pokemon-fire-red-png-3536860_69
+  - first:
+      213: 8991750554262350530
+    second: pngkey.com-pokemon-fire-red-png-3536860_70
+  - first:
+      213: -8623235154203616604
+    second: pngkey.com-pokemon-fire-red-png-3536860_71
+  - first:
+      213: 3991431666229148785
+    second: pngkey.com-pokemon-fire-red-png-3536860_72
+  - first:
+      213: 5816126923623434311
+    second: pngkey.com-pokemon-fire-red-png-3536860_73
+  - first:
+      213: -5217376501263323237
+    second: pngkey.com-pokemon-fire-red-png-3536860_74
+  - first:
+      213: -1039607229259418203
+    second: pngkey.com-pokemon-fire-red-png-3536860_75
+  - first:
+      213: -1647718248689423809
+    second: pngkey.com-pokemon-fire-red-png-3536860_76
+  - first:
+      213: -5481698754861315832
+    second: pngkey.com-pokemon-fire-red-png-3536860_77
+  - first:
+      213: 5330964744731988396
+    second: pngkey.com-pokemon-fire-red-png-3536860_78
+  - first:
+      213: -3742989700062601269
+    second: pngkey.com-pokemon-fire-red-png-3536860_79
+  - first:
+      213: 6649285565577973958
+    second: pngkey.com-pokemon-fire-red-png-3536860_80
+  - first:
+      213: -2405414280055464807
+    second: pngkey.com-pokemon-fire-red-png-3536860_81
+  - first:
+      213: -5505640272030477702
+    second: pngkey.com-pokemon-fire-red-png-3536860_82
+  - first:
+      213: -4327122136823527871
+    second: pngkey.com-pokemon-fire-red-png-3536860_83
+  - first:
+      213: -2676036876369273313
+    second: pngkey.com-pokemon-fire-red-png-3536860_84
+  - first:
+      213: -4285059343403025366
+    second: pngkey.com-pokemon-fire-red-png-3536860_85
+  - first:
+      213: 7433387703683621326
+    second: pngkey.com-pokemon-fire-red-png-3536860_86
+  - first:
+      213: -843894027694820252
+    second: pngkey.com-pokemon-fire-red-png-3536860_87
+  - first:
+      213: -7843737334480715505
+    second: pngkey.com-pokemon-fire-red-png-3536860_88
+  - first:
+      213: 948754977992390875
+    second: pngkey.com-pokemon-fire-red-png-3536860_89
+  - first:
+      213: -7255985133457331450
+    second: pngkey.com-pokemon-fire-red-png-3536860_90
+  - first:
+      213: -1187610910388937856
+    second: pngkey.com-pokemon-fire-red-png-3536860_91
+  - first:
+      213: -8343892721438945583
+    second: pngkey.com-pokemon-fire-red-png-3536860_92
+  - first:
+      213: 3060700754158528478
+    second: pngkey.com-pokemon-fire-red-png-3536860_93
+  - first:
+      213: 8681292490831867237
+    second: pngkey.com-pokemon-fire-red-png-3536860_94
+  - first:
+      213: 223336032614071765
+    second: pngkey.com-pokemon-fire-red-png-3536860_95
+  - first:
+      213: 6154679692215170517
+    second: pngkey.com-pokemon-fire-red-png-3536860_96
+  - first:
+      213: -1229697097969867454
+    second: pngkey.com-pokemon-fire-red-png-3536860_97
+  - first:
+      213: 3785948783828711795
+    second: pngkey.com-pokemon-fire-red-png-3536860_98
+  - first:
+      213: -8546294415950071454
+    second: pngkey.com-pokemon-fire-red-png-3536860_99
+  - first:
+      213: -5373484645034337107
+    second: pngkey.com-pokemon-fire-red-png-3536860_100
+  - first:
+      213: -1680850153564625629
+    second: pngkey.com-pokemon-fire-red-png-3536860_101
+  - first:
+      213: -970109445941045314
+    second: pngkey.com-pokemon-fire-red-png-3536860_102
+  - first:
+      213: 832781798256991939
+    second: pngkey.com-pokemon-fire-red-png-3536860_103
+  - first:
+      213: 7402497532558531532
+    second: pngkey.com-pokemon-fire-red-png-3536860_104
+  - first:
+      213: 4013098564681292721
+    second: pngkey.com-pokemon-fire-red-png-3536860_105
+  - first:
+      213: 2275263014141853726
+    second: pngkey.com-pokemon-fire-red-png-3536860_106
+  - first:
+      213: -6528035094975345306
+    second: pngkey.com-pokemon-fire-red-png-3536860_107
+  - first:
+      213: -5632835788144991181
+    second: pngkey.com-pokemon-fire-red-png-3536860_108
+  - first:
+      213: 585679467303621448
+    second: pngkey.com-pokemon-fire-red-png-3536860_109
+  - first:
+      213: -6520312441059638830
+    second: pngkey.com-pokemon-fire-red-png-3536860_110
+  - first:
+      213: 477836399779767223
+    second: pngkey.com-pokemon-fire-red-png-3536860_111
+  - first:
+      213: -7216679192063540086
+    second: pngkey.com-pokemon-fire-red-png-3536860_112
+  - first:
+      213: -3791914018386936905
+    second: pngkey.com-pokemon-fire-red-png-3536860_113
+  - first:
+      213: 8764256054427654301
+    second: pngkey.com-pokemon-fire-red-png-3536860_114
+  - first:
+      213: -7286089045712894086
+    second: pngkey.com-pokemon-fire-red-png-3536860_115
+  - first:
+      213: 1788291793577205315
+    second: pngkey.com-pokemon-fire-red-png-3536860_116
+  - first:
+      213: 7794710953434581010
+    second: pngkey.com-pokemon-fire-red-png-3536860_117
+  - first:
+      213: 2425531025980571519
+    second: pngkey.com-pokemon-fire-red-png-3536860_118
+  - first:
+      213: 7898845342666268528
+    second: pngkey.com-pokemon-fire-red-png-3536860_119
+  - first:
+      213: -6540166567178829542
+    second: pngkey.com-pokemon-fire-red-png-3536860_120
+  - first:
+      213: -8214971591277560161
+    second: pngkey.com-pokemon-fire-red-png-3536860_121
+  - first:
+      213: -5945442282324670263
+    second: pngkey.com-pokemon-fire-red-png-3536860_122
+  - first:
+      213: -7337390707654207405
+    second: pngkey.com-pokemon-fire-red-png-3536860_123
+  - first:
+      213: 5676185848021990066
+    second: pngkey.com-pokemon-fire-red-png-3536860_124
+  - first:
+      213: 6343696714980577417
+    second: pngkey.com-pokemon-fire-red-png-3536860_125
+  - first:
+      213: 1546643527470905259
+    second: pngkey.com-pokemon-fire-red-png-3536860_126
+  - first:
+      213: -4581664442420057934
+    second: pngkey.com-pokemon-fire-red-png-3536860_127
+  - first:
+      213: -7293261832020045498
+    second: pngkey.com-pokemon-fire-red-png-3536860_128
+  - first:
+      213: 1906170123971930800
+    second: pngkey.com-pokemon-fire-red-png-3536860_129
+  - first:
+      213: 1255235858125947824
+    second: pngkey.com-pokemon-fire-red-png-3536860_130
+  - first:
+      213: 8692874068065229176
+    second: pngkey.com-pokemon-fire-red-png-3536860_131
+  - first:
+      213: -8358355146593927001
+    second: pngkey.com-pokemon-fire-red-png-3536860_132
+  - first:
+      213: -1229715569547921173
+    second: pngkey.com-pokemon-fire-red-png-3536860_133
+  - first:
+      213: -8860902832525271548
+    second: pngkey.com-pokemon-fire-red-png-3536860_134
+  - first:
+      213: -6117414546777098957
+    second: pngkey.com-pokemon-fire-red-png-3536860_135
+  - first:
+      213: 5096276650520128008
+    second: pngkey.com-pokemon-fire-red-png-3536860_136
+  - first:
+      213: -690487819754619486
+    second: pngkey.com-pokemon-fire-red-png-3536860_137
+  - first:
+      213: 5464838789881498939
+    second: pngkey.com-pokemon-fire-red-png-3536860_138
+  - first:
+      213: 2184310861889383706
+    second: pngkey.com-pokemon-fire-red-png-3536860_139
+  - first:
+      213: -3964473619980667635
+    second: pngkey.com-pokemon-fire-red-png-3536860_140
+  - first:
+      213: -4365469765017374237
+    second: pngkey.com-pokemon-fire-red-png-3536860_141
+  - first:
+      213: -818500518392997956
+    second: pngkey.com-pokemon-fire-red-png-3536860_142
+  - first:
+      213: -5653497409578473990
+    second: pngkey.com-pokemon-fire-red-png-3536860_143
+  - first:
+      213: -6085442720602417836
+    second: pngkey.com-pokemon-fire-red-png-3536860_144
+  - first:
+      213: -1826168862477128132
+    second: pngkey.com-pokemon-fire-red-png-3536860_145
+  - first:
+      213: 2009895868341670422
+    second: pngkey.com-pokemon-fire-red-png-3536860_146
+  - first:
+      213: 6660977614751083262
+    second: pngkey.com-pokemon-fire-red-png-3536860_147
+  - first:
+      213: -7838414413512203980
+    second: pngkey.com-pokemon-fire-red-png-3536860_148
+  - first:
+      213: -4154606457896581052
+    second: pngkey.com-pokemon-fire-red-png-3536860_149
+  - first:
+      213: 1665631910603585338
+    second: pngkey.com-pokemon-fire-red-png-3536860_150
+  - first:
+      213: 2182724407542646729
+    second: pngkey.com-pokemon-fire-red-png-3536860_151
+  - first:
+      213: 4041378086509988373
+    second: pngkey.com-pokemon-fire-red-png-3536860_152
+  - first:
+      213: -3839557106338267512
+    second: pngkey.com-pokemon-fire-red-png-3536860_153
+  - first:
+      213: -1701278742470916866
+    second: pngkey.com-pokemon-fire-red-png-3536860_154
+  - first:
+      213: 2052164759107832026
+    second: pngkey.com-pokemon-fire-red-png-3536860_155
+  - first:
+      213: -2972509384945376819
+    second: pngkey.com-pokemon-fire-red-png-3536860_156
+  - first:
+      213: 8123979890063327045
+    second: pngkey.com-pokemon-fire-red-png-3536860_157
+  - first:
+      213: -6192300667616016947
+    second: pngkey.com-pokemon-fire-red-png-3536860_158
+  - first:
+      213: -5363373960055302358
+    second: pngkey.com-pokemon-fire-red-png-3536860_159
+  - first:
+      213: -4321356208476711267
+    second: pngkey.com-pokemon-fire-red-png-3536860_160
+  - first:
+      213: 3367773401276583350
+    second: pngkey.com-pokemon-fire-red-png-3536860_161
+  - first:
+      213: -8294875977364874383
+    second: pngkey.com-pokemon-fire-red-png-3536860_162
+  - first:
+      213: 5954808804143682888
+    second: pngkey.com-pokemon-fire-red-png-3536860_163
+  - first:
+      213: -8139588151611774368
+    second: pngkey.com-pokemon-fire-red-png-3536860_164
+  - first:
+      213: 2521488749425720184
+    second: pngkey.com-pokemon-fire-red-png-3536860_165
+  - first:
+      213: 4755166514126243271
+    second: pngkey.com-pokemon-fire-red-png-3536860_166
+  - first:
+      213: -4592422876190825171
+    second: pngkey.com-pokemon-fire-red-png-3536860_167
+  - first:
+      213: 5987645467111425078
+    second: pngkey.com-pokemon-fire-red-png-3536860_168
+  - first:
+      213: 5513308321729730764
+    second: pngkey.com-pokemon-fire-red-png-3536860_169
+  - first:
+      213: -4149471732416650542
+    second: pngkey.com-pokemon-fire-red-png-3536860_170
+  - first:
+      213: -1413549802868475749
+    second: pngkey.com-pokemon-fire-red-png-3536860_171
+  - first:
+      213: 9147235514658331803
+    second: pngkey.com-pokemon-fire-red-png-3536860_172
+  - first:
+      213: -7917213800056075487
+    second: pngkey.com-pokemon-fire-red-png-3536860_173
+  - first:
+      213: 398240503145746620
+    second: pngkey.com-pokemon-fire-red-png-3536860_174
+  - first:
+      213: 836934700161250397
+    second: pngkey.com-pokemon-fire-red-png-3536860_175
+  - first:
+      213: -3249375744240949295
+    second: pngkey.com-pokemon-fire-red-png-3536860_176
+  - first:
+      213: 1899638767930231308
+    second: pngkey.com-pokemon-fire-red-png-3536860_177
+  - first:
+      213: -8572146854309093909
+    second: pngkey.com-pokemon-fire-red-png-3536860_178
+  - first:
+      213: -7075662546963542955
+    second: pngkey.com-pokemon-fire-red-png-3536860_179
+  - first:
+      213: -2031933564380602105
+    second: pngkey.com-pokemon-fire-red-png-3536860_180
+  - first:
+      213: -4824716211998747985
+    second: pngkey.com-pokemon-fire-red-png-3536860_181
+  - first:
+      213: 2111188884276194492
+    second: pngkey.com-pokemon-fire-red-png-3536860_182
+  - first:
+      213: -2792368507065077834
+    second: pngkey.com-pokemon-fire-red-png-3536860_183
+  - first:
+      213: -6945373142834375436
+    second: pngkey.com-pokemon-fire-red-png-3536860_184
+  - first:
+      213: 8192614252027121697
+    second: pngkey.com-pokemon-fire-red-png-3536860_185
+  - first:
+      213: -8495349156059642025
+    second: pngkey.com-pokemon-fire-red-png-3536860_186
+  - first:
+      213: 6001913877344271936
+    second: pngkey.com-pokemon-fire-red-png-3536860_187
+  - first:
+      213: 8580015133144425084
+    second: pngkey.com-pokemon-fire-red-png-3536860_188
+  - first:
+      213: -8142925873218922246
+    second: pngkey.com-pokemon-fire-red-png-3536860_189
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 475
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a42f7fe4ddccc9420800000000000000
+      internalID: 2638208732616979018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 476
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca524971628a4cd0800000000000000
+      internalID: -2573100881930986807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 475
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ed87964d7ee6de70800000000000000
+      internalID: 9139754715617660391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_3
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 477
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6cca550210b6ac90800000000000000
+      internalID: -7158840966213088149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_4
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 476
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46c12b3ad63636680800000000000000
+      internalID: -8763051127383909276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_5
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 476
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 194080b68740f38d0800000000000000
+      internalID: -2864565922746071919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_6
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 476
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c325a00690ea0c0800000000000000
+      internalID: -4562699064385061741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_7
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 476
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2435d3699121139d0800000000000000
+      internalID: -2796433992516283582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_8
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 476
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae92f843e54ba2ac0800000000000000
+      internalID: -3879089812324537878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_9
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 473
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98adcccf5653e7650800000000000000
+      internalID: 6232477646476597897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_10
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 478
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c802adcbe7647d0800000000000000
+      internalID: -2934518757606781873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_11
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 476
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ab2b231297c07a80800000000000000
+      internalID: -8471051468883154008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_12
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 476
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a03f05e2eb3ed7a40800000000000000
+      internalID: 5367696736855847690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_13
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 443
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9687edac7c4bf6c80800000000000000
+      internalID: -8327238415789688727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_14
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 444
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c8ad9af9dd23530800000000000000
+      internalID: 3833369910664924273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_15
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 444
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f2b4ca25ec75b1c0800000000000000
+      internalID: -4488544129897942286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_16
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 445
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5f15ee41b4f48d50800000000000000
+      internalID: 6738779984823131996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_17
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 444
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfc853fe743518ae0800000000000000
+      internalID: -1548865228417692420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_18
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 444
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5978173e5b70ee310800000000000000
+      internalID: 1436093808964110229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_19
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 444
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 645254a7c15a6dbf0800000000000000
+      internalID: -299870783444540090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_20
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 444
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab1f002ebddd3270800000000000000
+      internalID: 8231979502554520486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_21
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 444
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ededba7c059a78420800000000000000
+      internalID: 2632258671633751774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_22
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 441
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99826a7a2016a3190800000000000000
+      internalID: -7981960725530269543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_23
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 446
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f02bca4381622fa0800000000000000
+      internalID: -5826987751340564233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_24
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 444
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10d00238600671c20800000000000000
+      internalID: 3177113643219160321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_25
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 382
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b61c512e0f2e4f70800000000000000
+      internalID: 9173321228736009908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_26
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 412
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45767422952abe8c0800000000000000
+      internalID: -3968900142886066348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_27
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 412
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b776bd662595b60800000000000000
+      internalID: 7735304436706671407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_28
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 411
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c001ac29dd42f00800000000000000
+      internalID: 1091240632255515775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_29
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 413
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a71780921adfa750800000000000000
+      internalID: 6318508575493134240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_30
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 412
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5b1d8c2b07255cd0800000000000000
+      internalID: -2570105083399431330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_31
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 412
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c770bbd788763d570800000000000000
+      internalID: 8490243558446139260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_32
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 412
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad5b1c7d94b89310800000000000000
+      internalID: 1412077071665683879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_33
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 412
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8255849dd237d7a0800000000000000
+      internalID: -6352552822121868662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_34
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 414
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb47165df29f6770800000000000000
+      internalID: 8606259029697055689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_35
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 412
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cade1d806d43b430800000000000000
+      internalID: 3797463987883268808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 380
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14e1623a57dd7f9a0800000000000000
+      internalID: -6199242864734101951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_37
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 380
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1bb4f6008b1c3820800000000000000
+      internalID: 2899222496806222618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_38
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 379
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc1850d1557ef51e0800000000000000
+      internalID: -2206790939643117107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_39
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 381
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0bbda2727bb6aa30800000000000000
+      internalID: 4226271400558443277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_40
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 380
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a2bff4509717e030800000000000000
+      internalID: 3523811142109475497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_41
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 380
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc955da6e1e10300800000000000000
+      internalID: 216702637957291248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_42
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 380
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e59e6012e67973910800000000000000
+      internalID: 1817087473923582302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_43
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 380
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad12da500ce5fb9c0800000000000000
+      internalID: -3909301772712336934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_44
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 381
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c83f309fae77bf40800000000000000
+      internalID: 5744199142238795970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_45
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 380
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7422a854f9bb17770800000000000000
+      internalID: 8606866655622603335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_46
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 348
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be31e78e268e4fbb0800000000000000
+      internalID: -4903038582794611733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_47
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 348
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a08500ac650b24200800000000000000
+      internalID: 162886423341455370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_48
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 348
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2213bc6c231b6cc0800000000000000
+      internalID: -3716855985941048787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_49
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 348
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 567e70b46fd769960800000000000000
+      internalID: 7608407117263267685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_50
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 348
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea0f6884c60c773b0800000000000000
+      internalID: -5514727647386079058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_51
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 348
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c25ac706291223f90800000000000000
+      internalID: -6975475960275753684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_52
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 348
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27aee0725825af100800000000000000
+      internalID: 142517070055008882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_53
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 348
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d92604066ddd9370800000000000000
+      internalID: 8331058315929201108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_54
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 348
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e73566bdbf508ffc0800000000000000
+      internalID: -3461009734358379650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_55
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 350
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1155dd816d20c940800000000000000
+      internalID: 5314297457311830301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_56
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 350
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e7aa1cac55a05d20800000000000000
+      internalID: 3265291547286611941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_57
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 350
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba73522c7245342d0800000000000000
+      internalID: -3295697972567394389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_58
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 316
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a7524596129739c0800000000000000
+      internalID: -3947525922675861595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_59
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 316
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df46c13ca7d296b80800000000000000
+      internalID: -8401133624600271619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_60
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 316
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c176325e9d644a120800000000000000
+      internalID: 2424140401098319644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_61
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 316
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7e05c46bdcbb1f50800000000000000
+      internalID: 6853278908448837244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_62
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 316
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77a21c2c73e555d30800000000000000
+      internalID: 4419542202917661303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_63
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 316
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda39a3fc372ca4b0800000000000000
+      internalID: -5427920308148815137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_64
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 316
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d39bc3719109d30800000000000000
+      internalID: 4436073220553653619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_65
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 316
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2671e65e38f532750800000000000000
+      internalID: 6278967325579155298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_66
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 315
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11327c84f4f6e3950800000000000000
+      internalID: 6430699704245756689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_67
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 318
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02b2200838fa1de50800000000000000
+      internalID: 6832435089020955424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_68
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 318
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66168ba0b1d3aa450800000000000000
+      internalID: 6100755831580025190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_69
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 317
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9753411d5d13aafa0800000000000000
+      internalID: -5788759576625793671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_70
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 284
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2caaabf1d7d19cc70800000000000000
+      internalID: 8991750554262350530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_71
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 284
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aa580ba05d145880800000000000000
+      internalID: -8623235154203616604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_72
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 284
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c75d2f3f9646730800000000000000
+      internalID: 3991431666229148785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_73
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 284
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74809233f9807b050800000000000000
+      internalID: 5816126923623434311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_74
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 284
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9faab607b72897b0800000000000000
+      internalID: -5217376501263323237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_75
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 284
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a5701aabb29291f0800000000000000
+      internalID: -1039607229259418203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_76
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 284
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a20f89bf02229e0800000000000000
+      internalID: -1647718248689423809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_77
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 284
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8094ac696081de3b0800000000000000
+      internalID: -5481698754861315832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_78
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 283
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca191efc0346bf940800000000000000
+      internalID: 5330964744731988396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_79
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 286
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf92d1f2ba3e0cc0800000000000000
+      internalID: -3742989700062601269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_80
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 287
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c058621ef1074c50800000000000000
+      internalID: 6649285565577973958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_81
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 286
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99c54abe4704e9ed0800000000000000
+      internalID: -2405414280055464807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_82
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 252
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a72d98cb7590893b0800000000000000
+      internalID: -5505640272030477702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_83
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 252
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14687e6b759f2f3c0800000000000000
+      internalID: -4327122136823527871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_84
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 252
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1ed922a3aeccdad0800000000000000
+      internalID: -2676036876369273313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_85
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 252
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c7efafa396884c0800000000000000
+      internalID: -4285059343403025366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_86
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 252
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec1a1d39bb2b82760800000000000000
+      internalID: 7433387703683621326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_87
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 252
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4643d2b5ad2e944f0800000000000000
+      internalID: -843894027694820252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_88
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 252
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f01cec2c372752390800000000000000
+      internalID: -7843737334480715505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_89
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 252
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd8be1230a7aa2d00800000000000000
+      internalID: 948754977992390875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_90
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 252
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ba2c807ff8d4b90800000000000000
+      internalID: -7255985133457331450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_91
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 255
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b93e25b22c48fe0800000000000000
+      internalID: -1187610910388937856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_92
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 256
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1de0aa617c9843c80800000000000000
+      internalID: -8343892721438945583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_93
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 256
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed7a36f9e1bc97a20800000000000000
+      internalID: 3060700754158528478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_94
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 256
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56dac4366852a7870800000000000000
+      internalID: 8681292490831867237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_95
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 255
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ddb18930f2791300800000000000000
+      internalID: 223336032614071765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_96
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 225
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d5bbc83290d96550800000000000000
+      internalID: 6154679692215170517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_97
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 226
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2456d2e210d3feee0800000000000000
+      internalID: -1229697097969867454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_98
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 225
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 379beed2c546a8430800000000000000
+      internalID: 3785948783828711795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_99
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 227
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26934674286756980800000000000000
+      internalID: -8546294415950071454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_100
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 226
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac56be6f2c8d65b0800000000000000
+      internalID: -5373484645034337107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_101
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 226
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 325ae1cd0bb6ca8e0800000000000000
+      internalID: -1680850153564625629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_102
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 226
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb7de69499a7982f0800000000000000
+      internalID: -970109445941045314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_103
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 225
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ced48c12a2ae8b00800000000000000
+      internalID: 832781798256991939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_104
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 225
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb5bd62944fab660800000000000000
+      internalID: 7402497532558531532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_105
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 226
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb557cd1e361b730800000000000000
+      internalID: 4013098564681292721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_106
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 227
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e10828018ab539f10800000000000000
+      internalID: 2275263014141853726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_107
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 227
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66d06ba0ba2c765a0800000000000000
+      internalID: -6528035094975345306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_108
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 226
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 334a289d1b524d1b0800000000000000
+      internalID: -5632835788144991181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_109
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 193
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8435fd85f50c02800800000000000000
+      internalID: 585679467303621448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_110
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 194
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d1841681623385a0800000000000000
+      internalID: -6520312441059638830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_111
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 194
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b3ef958cad91a600800000000000000
+      internalID: 477836399779767223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_112
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 195
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a84891ba28439db90800000000000000
+      internalID: -7216679192063540086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_113
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 194
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bbf83b6a4a606bc0800000000000000
+      internalID: -3791914018386936905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_114
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 194
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d981abc4274e0a970800000000000000
+      internalID: 8764256054427654301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_115
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 194
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a770b64cd9c92ea90800000000000000
+      internalID: -7286089045712894086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_116
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 193
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e5ae659e941d810800000000000000
+      internalID: 1788291793577205315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_117
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 193
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 218805260506c2c60800000000000000
+      internalID: 7794710953434581010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_118
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 194
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7fb24bfd9739a120800000000000000
+      internalID: 2425531025980571519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_119
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 195
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07f1f514df55e9d60800000000000000
+      internalID: 7898845342666268528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_120
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 194
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a118b6f8829ac35a0800000000000000
+      internalID: -6540166567178829542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_121
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 162
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9eb9fdccde8efd80800000000000000
+      internalID: -8214971591277560161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_122
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 162
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c843799ebb8d7da0800000000000000
+      internalID: -5945442282324670263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_123
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 161
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 358d40cc60a5c2a90800000000000000
+      internalID: -7337390707654207405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_124
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 163
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba337e74fcd5ce40800000000000000
+      internalID: 5676185848021990066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_125
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 162
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 980da3b4d86590850800000000000000
+      internalID: 6343696714980577417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_126
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 162
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba77f010818c67510800000000000000
+      internalID: 1546643527470905259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_127
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 162
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b8a38dd678aa60c0800000000000000
+      internalID: -4581664442420057934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_128
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 161
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 641d780510129ca90800000000000000
+      internalID: -7293261832020045498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_129
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 162
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ba2fc0e0a3147a10800000000000000
+      internalID: 1906170123971930800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_130
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 163
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b30ee8cc5e7b6110800000000000000
+      internalID: 1255235858125947824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_131
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 130
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8799b3878ea43a870800000000000000
+      internalID: 8692874068065229176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_132
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 130
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a006b45748210c80800000000000000
+      internalID: -8358355146593927001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_133
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 129
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be8345e643c2feee0800000000000000
+      internalID: -1229715569547921173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_134
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 130
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40e141622dfb70580800000000000000
+      internalID: -8860902832525271548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_135
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 130
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3353b8391e39a1ba0800000000000000
+      internalID: -6117414546777098957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_136
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 130
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80aae57cc9c99b640800000000000000
+      internalID: 5096276650520128008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_137
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 130
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2adbacd7cf4ea66f0800000000000000
+      internalID: -690487819754619486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_138
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 129
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d89a9ece107db40800000000000000
+      internalID: 5464838789881498939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_139
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 130
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1da1f9e72b305e10800000000000000
+      internalID: 2184310861889383706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_140
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 131
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0535af4f3c5bf8c0800000000000000
+      internalID: -3964473619980667635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_141
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 97
+        width: 39
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e17e62c06cba63c0800000000000000
+      internalID: -4365469765017374237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_142
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 97
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb756b87d1a14a4f0800000000000000
+      internalID: -818500518392997956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_143
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 97
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af5eb7b3f0eba81b0800000000000000
+      internalID: -5653497409578473990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_144
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 97
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4559181761a2c8ba0800000000000000
+      internalID: -6085442720602417836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_145
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 97
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3eeb24581528a6e0800000000000000
+      internalID: -1826168862477128132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_146
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 97
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 612d704b4a594eb10800000000000000
+      internalID: 2009895868341670422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_147
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 96
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa211869db807c50800000000000000
+      internalID: 6660977614751083262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_148
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 431ad40ee9b583390800000000000000
+      internalID: -7838414413512203980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_149
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 96
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 448c787407fd756c0800000000000000
+      internalID: -4154606457896581052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_150
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 96
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a37f416d5638d1710800000000000000
+      internalID: 1665631910603585338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_151
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 96
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c7872ab8489a4e10800000000000000
+      internalID: 2182724407542646729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_152
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 96
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ac97125fbd51830800000000000000
+      internalID: 4041378086509988373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_153
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 96
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88e71e5972727bac0800000000000000
+      internalID: -3839557106338267512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_154
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 65
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef4091b5ff7d368e0800000000000000
+      internalID: -1701278742470916866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_155
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 65
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad8823fb9f0ca7c10800000000000000
+      internalID: 2052164759107832026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_156
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 65
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc1e0d2a6768fb6d0800000000000000
+      internalID: -2972509384945376819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_157
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 65
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f34a5daac2eb070800000000000000
+      internalID: 8123979890063327045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_158
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 65
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc5455cd957801aa0800000000000000
+      internalID: -6192300667616016947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_159
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 64
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a27d259bcc77195b0800000000000000
+      internalID: -5363373960055302358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_160
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 64
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9611d58c657704c0800000000000000
+      internalID: -4321356208476711267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_161
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 64
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd8913b01cbcbe20800000000000000
+      internalID: 3367773401276583350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_162
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 63
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17bde392f3ea2ec80800000000000000
+      internalID: -8294875977364874383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_163
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 64
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8455a54be0bb3a250800000000000000
+      internalID: 5954808804143682888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_164
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 64
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06aa33593bf5a0f80800000000000000
+      internalID: -8139588151611774368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_165
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 63
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87bf9ae78a02ef220800000000000000
+      internalID: 2521488749425720184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_166
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 33
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c5c35a20cebdf140800000000000000
+      internalID: 4755166514126243271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_167
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 33
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d25a44ec9bf6440c0800000000000000
+      internalID: -4592422876190825171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_168
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 33
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 634872414d3681350800000000000000
+      internalID: 5987645467111425078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_169
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 33
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc8d7e535b4338c40800000000000000
+      internalID: 5513308321729730764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_170
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 33
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d2e7c7b17d1a66c0800000000000000
+      internalID: -4149471732416650542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_171
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 32
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9873bf81ff026ce0800000000000000
+      internalID: -1413549802868475749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_172
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 32
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9c1c088c3281fe70800000000000000
+      internalID: 9147235514658331803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_173
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 32
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12b46dcfef7602290800000000000000
+      internalID: -7917213800056075487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_174
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 31
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb0dc2da0a5d68500800000000000000
+      internalID: 398240503145746620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_175
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 32
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d543f4feca36d9b00800000000000000
+      internalID: 836934700161250397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_176
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 32
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d76fbef9f5e7e2d0800000000000000
+      internalID: -3249375744240949295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_177
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 32
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0aca0c056fdc5a10800000000000000
+      internalID: 1899638767930231308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_178
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bed9c6a6add990980800000000000000
+      internalID: -8572146854309093909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_179
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55cc3b9e6623ecd90800000000000000
+      internalID: -7075662546963542955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_180
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 1
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 701a6e7503f1dc3e0800000000000000
+      internalID: -2031933564380602105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_181
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa21fb9ea2a2b0db0800000000000000
+      internalID: -4824716211998747985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_182
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbc290dca137c4d10800000000000000
+      internalID: 2111188884276194492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_183
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 0
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bfe56e23a38f39d0800000000000000
+      internalID: -2792368507065077834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_184
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 0
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f491dcbce31d9f90800000000000000
+      internalID: -6945373142834375436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_185
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 0
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12011e1814302b170800000000000000
+      internalID: 8192614252027121697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_186
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 0
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757862ee3f47a1a80800000000000000
+      internalID: -8495349156059642025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_187
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 0
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04eb7973fd41b4350800000000000000
+      internalID: 6001913877344271936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_188
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c72ac820e46521770800000000000000
+      internalID: 8580015133144425084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-pokemon-fire-red-png-3536860_189
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 2
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af8d276bf048efe80800000000000000
+      internalID: -8142925873218922246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      pngkey.com-pokemon-fire-red-png-3536860_0: 2638208732616979018
+      pngkey.com-pokemon-fire-red-png-3536860_1: -2573100881930986807
+      pngkey.com-pokemon-fire-red-png-3536860_10: -2934518757606781873
+      pngkey.com-pokemon-fire-red-png-3536860_100: -5373484645034337107
+      pngkey.com-pokemon-fire-red-png-3536860_101: -1680850153564625629
+      pngkey.com-pokemon-fire-red-png-3536860_102: -970109445941045314
+      pngkey.com-pokemon-fire-red-png-3536860_103: 832781798256991939
+      pngkey.com-pokemon-fire-red-png-3536860_104: 7402497532558531532
+      pngkey.com-pokemon-fire-red-png-3536860_105: 4013098564681292721
+      pngkey.com-pokemon-fire-red-png-3536860_106: 2275263014141853726
+      pngkey.com-pokemon-fire-red-png-3536860_107: -6528035094975345306
+      pngkey.com-pokemon-fire-red-png-3536860_108: -5632835788144991181
+      pngkey.com-pokemon-fire-red-png-3536860_109: 585679467303621448
+      pngkey.com-pokemon-fire-red-png-3536860_11: -8471051468883154008
+      pngkey.com-pokemon-fire-red-png-3536860_110: -6520312441059638830
+      pngkey.com-pokemon-fire-red-png-3536860_111: 477836399779767223
+      pngkey.com-pokemon-fire-red-png-3536860_112: -7216679192063540086
+      pngkey.com-pokemon-fire-red-png-3536860_113: -3791914018386936905
+      pngkey.com-pokemon-fire-red-png-3536860_114: 8764256054427654301
+      pngkey.com-pokemon-fire-red-png-3536860_115: -7286089045712894086
+      pngkey.com-pokemon-fire-red-png-3536860_116: 1788291793577205315
+      pngkey.com-pokemon-fire-red-png-3536860_117: 7794710953434581010
+      pngkey.com-pokemon-fire-red-png-3536860_118: 2425531025980571519
+      pngkey.com-pokemon-fire-red-png-3536860_119: 7898845342666268528
+      pngkey.com-pokemon-fire-red-png-3536860_12: 5367696736855847690
+      pngkey.com-pokemon-fire-red-png-3536860_120: -6540166567178829542
+      pngkey.com-pokemon-fire-red-png-3536860_121: -8214971591277560161
+      pngkey.com-pokemon-fire-red-png-3536860_122: -5945442282324670263
+      pngkey.com-pokemon-fire-red-png-3536860_123: -7337390707654207405
+      pngkey.com-pokemon-fire-red-png-3536860_124: 5676185848021990066
+      pngkey.com-pokemon-fire-red-png-3536860_125: 6343696714980577417
+      pngkey.com-pokemon-fire-red-png-3536860_126: 1546643527470905259
+      pngkey.com-pokemon-fire-red-png-3536860_127: -4581664442420057934
+      pngkey.com-pokemon-fire-red-png-3536860_128: -7293261832020045498
+      pngkey.com-pokemon-fire-red-png-3536860_129: 1906170123971930800
+      pngkey.com-pokemon-fire-red-png-3536860_13: -8327238415789688727
+      pngkey.com-pokemon-fire-red-png-3536860_130: 1255235858125947824
+      pngkey.com-pokemon-fire-red-png-3536860_131: 8692874068065229176
+      pngkey.com-pokemon-fire-red-png-3536860_132: -8358355146593927001
+      pngkey.com-pokemon-fire-red-png-3536860_133: -1229715569547921173
+      pngkey.com-pokemon-fire-red-png-3536860_134: -8860902832525271548
+      pngkey.com-pokemon-fire-red-png-3536860_135: -6117414546777098957
+      pngkey.com-pokemon-fire-red-png-3536860_136: 5096276650520128008
+      pngkey.com-pokemon-fire-red-png-3536860_137: -690487819754619486
+      pngkey.com-pokemon-fire-red-png-3536860_138: 5464838789881498939
+      pngkey.com-pokemon-fire-red-png-3536860_139: 2184310861889383706
+      pngkey.com-pokemon-fire-red-png-3536860_14: 3833369910664924273
+      pngkey.com-pokemon-fire-red-png-3536860_140: -3964473619980667635
+      pngkey.com-pokemon-fire-red-png-3536860_141: -4365469765017374237
+      pngkey.com-pokemon-fire-red-png-3536860_142: -818500518392997956
+      pngkey.com-pokemon-fire-red-png-3536860_143: -5653497409578473990
+      pngkey.com-pokemon-fire-red-png-3536860_144: -6085442720602417836
+      pngkey.com-pokemon-fire-red-png-3536860_145: -1826168862477128132
+      pngkey.com-pokemon-fire-red-png-3536860_146: 2009895868341670422
+      pngkey.com-pokemon-fire-red-png-3536860_147: 6660977614751083262
+      pngkey.com-pokemon-fire-red-png-3536860_148: -7838414413512203980
+      pngkey.com-pokemon-fire-red-png-3536860_149: -4154606457896581052
+      pngkey.com-pokemon-fire-red-png-3536860_15: -4488544129897942286
+      pngkey.com-pokemon-fire-red-png-3536860_150: 1665631910603585338
+      pngkey.com-pokemon-fire-red-png-3536860_151: 2182724407542646729
+      pngkey.com-pokemon-fire-red-png-3536860_152: 4041378086509988373
+      pngkey.com-pokemon-fire-red-png-3536860_153: -3839557106338267512
+      pngkey.com-pokemon-fire-red-png-3536860_154: -1701278742470916866
+      pngkey.com-pokemon-fire-red-png-3536860_155: 2052164759107832026
+      pngkey.com-pokemon-fire-red-png-3536860_156: -2972509384945376819
+      pngkey.com-pokemon-fire-red-png-3536860_157: 8123979890063327045
+      pngkey.com-pokemon-fire-red-png-3536860_158: -6192300667616016947
+      pngkey.com-pokemon-fire-red-png-3536860_159: -5363373960055302358
+      pngkey.com-pokemon-fire-red-png-3536860_16: 6738779984823131996
+      pngkey.com-pokemon-fire-red-png-3536860_160: -4321356208476711267
+      pngkey.com-pokemon-fire-red-png-3536860_161: 3367773401276583350
+      pngkey.com-pokemon-fire-red-png-3536860_162: -8294875977364874383
+      pngkey.com-pokemon-fire-red-png-3536860_163: 5954808804143682888
+      pngkey.com-pokemon-fire-red-png-3536860_164: -8139588151611774368
+      pngkey.com-pokemon-fire-red-png-3536860_165: 2521488749425720184
+      pngkey.com-pokemon-fire-red-png-3536860_166: 4755166514126243271
+      pngkey.com-pokemon-fire-red-png-3536860_167: -4592422876190825171
+      pngkey.com-pokemon-fire-red-png-3536860_168: 5987645467111425078
+      pngkey.com-pokemon-fire-red-png-3536860_169: 5513308321729730764
+      pngkey.com-pokemon-fire-red-png-3536860_17: -1548865228417692420
+      pngkey.com-pokemon-fire-red-png-3536860_170: -4149471732416650542
+      pngkey.com-pokemon-fire-red-png-3536860_171: -1413549802868475749
+      pngkey.com-pokemon-fire-red-png-3536860_172: 9147235514658331803
+      pngkey.com-pokemon-fire-red-png-3536860_173: -7917213800056075487
+      pngkey.com-pokemon-fire-red-png-3536860_174: 398240503145746620
+      pngkey.com-pokemon-fire-red-png-3536860_175: 836934700161250397
+      pngkey.com-pokemon-fire-red-png-3536860_176: -3249375744240949295
+      pngkey.com-pokemon-fire-red-png-3536860_177: 1899638767930231308
+      pngkey.com-pokemon-fire-red-png-3536860_178: -8572146854309093909
+      pngkey.com-pokemon-fire-red-png-3536860_179: -7075662546963542955
+      pngkey.com-pokemon-fire-red-png-3536860_18: 1436093808964110229
+      pngkey.com-pokemon-fire-red-png-3536860_180: -2031933564380602105
+      pngkey.com-pokemon-fire-red-png-3536860_181: -4824716211998747985
+      pngkey.com-pokemon-fire-red-png-3536860_182: 2111188884276194492
+      pngkey.com-pokemon-fire-red-png-3536860_183: -2792368507065077834
+      pngkey.com-pokemon-fire-red-png-3536860_184: -6945373142834375436
+      pngkey.com-pokemon-fire-red-png-3536860_185: 8192614252027121697
+      pngkey.com-pokemon-fire-red-png-3536860_186: -8495349156059642025
+      pngkey.com-pokemon-fire-red-png-3536860_187: 6001913877344271936
+      pngkey.com-pokemon-fire-red-png-3536860_188: 8580015133144425084
+      pngkey.com-pokemon-fire-red-png-3536860_189: -8142925873218922246
+      pngkey.com-pokemon-fire-red-png-3536860_19: -299870783444540090
+      pngkey.com-pokemon-fire-red-png-3536860_2: 9139754715617660391
+      pngkey.com-pokemon-fire-red-png-3536860_20: 8231979502554520486
+      pngkey.com-pokemon-fire-red-png-3536860_21: 2632258671633751774
+      pngkey.com-pokemon-fire-red-png-3536860_22: -7981960725530269543
+      pngkey.com-pokemon-fire-red-png-3536860_23: -5826987751340564233
+      pngkey.com-pokemon-fire-red-png-3536860_24: 3177113643219160321
+      pngkey.com-pokemon-fire-red-png-3536860_25: 9173321228736009908
+      pngkey.com-pokemon-fire-red-png-3536860_26: -3968900142886066348
+      pngkey.com-pokemon-fire-red-png-3536860_27: 7735304436706671407
+      pngkey.com-pokemon-fire-red-png-3536860_28: 1091240632255515775
+      pngkey.com-pokemon-fire-red-png-3536860_29: 6318508575493134240
+      pngkey.com-pokemon-fire-red-png-3536860_3: -7158840966213088149
+      pngkey.com-pokemon-fire-red-png-3536860_30: -2570105083399431330
+      pngkey.com-pokemon-fire-red-png-3536860_31: 8490243558446139260
+      pngkey.com-pokemon-fire-red-png-3536860_32: 1412077071665683879
+      pngkey.com-pokemon-fire-red-png-3536860_33: -6352552822121868662
+      pngkey.com-pokemon-fire-red-png-3536860_34: 8606259029697055689
+      pngkey.com-pokemon-fire-red-png-3536860_35: 3797463987883268808
+      pngkey.com-pokemon-fire-red-png-3536860_36: -6199242864734101951
+      pngkey.com-pokemon-fire-red-png-3536860_37: 2899222496806222618
+      pngkey.com-pokemon-fire-red-png-3536860_38: -2206790939643117107
+      pngkey.com-pokemon-fire-red-png-3536860_39: 4226271400558443277
+      pngkey.com-pokemon-fire-red-png-3536860_4: -8763051127383909276
+      pngkey.com-pokemon-fire-red-png-3536860_40: 3523811142109475497
+      pngkey.com-pokemon-fire-red-png-3536860_41: 216702637957291248
+      pngkey.com-pokemon-fire-red-png-3536860_42: 1817087473923582302
+      pngkey.com-pokemon-fire-red-png-3536860_43: -3909301772712336934
+      pngkey.com-pokemon-fire-red-png-3536860_44: 5744199142238795970
+      pngkey.com-pokemon-fire-red-png-3536860_45: 8606866655622603335
+      pngkey.com-pokemon-fire-red-png-3536860_46: -4903038582794611733
+      pngkey.com-pokemon-fire-red-png-3536860_47: 162886423341455370
+      pngkey.com-pokemon-fire-red-png-3536860_48: -3716855985941048787
+      pngkey.com-pokemon-fire-red-png-3536860_49: 7608407117263267685
+      pngkey.com-pokemon-fire-red-png-3536860_5: -2864565922746071919
+      pngkey.com-pokemon-fire-red-png-3536860_50: -5514727647386079058
+      pngkey.com-pokemon-fire-red-png-3536860_51: -6975475960275753684
+      pngkey.com-pokemon-fire-red-png-3536860_52: 142517070055008882
+      pngkey.com-pokemon-fire-red-png-3536860_53: 8331058315929201108
+      pngkey.com-pokemon-fire-red-png-3536860_54: -3461009734358379650
+      pngkey.com-pokemon-fire-red-png-3536860_55: 5314297457311830301
+      pngkey.com-pokemon-fire-red-png-3536860_56: 3265291547286611941
+      pngkey.com-pokemon-fire-red-png-3536860_57: -3295697972567394389
+      pngkey.com-pokemon-fire-red-png-3536860_58: -3947525922675861595
+      pngkey.com-pokemon-fire-red-png-3536860_59: -8401133624600271619
+      pngkey.com-pokemon-fire-red-png-3536860_6: -4562699064385061741
+      pngkey.com-pokemon-fire-red-png-3536860_60: 2424140401098319644
+      pngkey.com-pokemon-fire-red-png-3536860_61: 6853278908448837244
+      pngkey.com-pokemon-fire-red-png-3536860_62: 4419542202917661303
+      pngkey.com-pokemon-fire-red-png-3536860_63: -5427920308148815137
+      pngkey.com-pokemon-fire-red-png-3536860_64: 4436073220553653619
+      pngkey.com-pokemon-fire-red-png-3536860_65: 6278967325579155298
+      pngkey.com-pokemon-fire-red-png-3536860_66: 6430699704245756689
+      pngkey.com-pokemon-fire-red-png-3536860_67: 6832435089020955424
+      pngkey.com-pokemon-fire-red-png-3536860_68: 6100755831580025190
+      pngkey.com-pokemon-fire-red-png-3536860_69: -5788759576625793671
+      pngkey.com-pokemon-fire-red-png-3536860_7: -2796433992516283582
+      pngkey.com-pokemon-fire-red-png-3536860_70: 8991750554262350530
+      pngkey.com-pokemon-fire-red-png-3536860_71: -8623235154203616604
+      pngkey.com-pokemon-fire-red-png-3536860_72: 3991431666229148785
+      pngkey.com-pokemon-fire-red-png-3536860_73: 5816126923623434311
+      pngkey.com-pokemon-fire-red-png-3536860_74: -5217376501263323237
+      pngkey.com-pokemon-fire-red-png-3536860_75: -1039607229259418203
+      pngkey.com-pokemon-fire-red-png-3536860_76: -1647718248689423809
+      pngkey.com-pokemon-fire-red-png-3536860_77: -5481698754861315832
+      pngkey.com-pokemon-fire-red-png-3536860_78: 5330964744731988396
+      pngkey.com-pokemon-fire-red-png-3536860_79: -3742989700062601269
+      pngkey.com-pokemon-fire-red-png-3536860_8: -3879089812324537878
+      pngkey.com-pokemon-fire-red-png-3536860_80: 6649285565577973958
+      pngkey.com-pokemon-fire-red-png-3536860_81: -2405414280055464807
+      pngkey.com-pokemon-fire-red-png-3536860_82: -5505640272030477702
+      pngkey.com-pokemon-fire-red-png-3536860_83: -4327122136823527871
+      pngkey.com-pokemon-fire-red-png-3536860_84: -2676036876369273313
+      pngkey.com-pokemon-fire-red-png-3536860_85: -4285059343403025366
+      pngkey.com-pokemon-fire-red-png-3536860_86: 7433387703683621326
+      pngkey.com-pokemon-fire-red-png-3536860_87: -843894027694820252
+      pngkey.com-pokemon-fire-red-png-3536860_88: -7843737334480715505
+      pngkey.com-pokemon-fire-red-png-3536860_89: 948754977992390875
+      pngkey.com-pokemon-fire-red-png-3536860_9: 6232477646476597897
+      pngkey.com-pokemon-fire-red-png-3536860_90: -7255985133457331450
+      pngkey.com-pokemon-fire-red-png-3536860_91: -1187610910388937856
+      pngkey.com-pokemon-fire-red-png-3536860_92: -8343892721438945583
+      pngkey.com-pokemon-fire-red-png-3536860_93: 3060700754158528478
+      pngkey.com-pokemon-fire-red-png-3536860_94: 8681292490831867237
+      pngkey.com-pokemon-fire-red-png-3536860_95: 223336032614071765
+      pngkey.com-pokemon-fire-red-png-3536860_96: 6154679692215170517
+      pngkey.com-pokemon-fire-red-png-3536860_97: -1229697097969867454
+      pngkey.com-pokemon-fire-red-png-3536860_98: 3785948783828711795
+      pngkey.com-pokemon-fire-red-png-3536860_99: -8546294415950071454
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
